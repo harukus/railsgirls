@@ -1,0 +1,3 @@
+# README
+
+これはrailsgirlskyotoで作ったwebアプリケーションです
